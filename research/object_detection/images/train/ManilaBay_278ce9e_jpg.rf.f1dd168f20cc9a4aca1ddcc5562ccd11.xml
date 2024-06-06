@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ManilaBay_278ce9e_jpg.rf.f1dd168f20cc9a4aca1ddcc5562ccd11.jpg</filename>
+	<path>ManilaBay_278ce9e_jpg.rf.f1dd168f20cc9a4aca1ddcc5562ccd11.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass_waste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>319</xmin>
+			<xmax>393</xmax>
+			<ymin>253</ymin>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>

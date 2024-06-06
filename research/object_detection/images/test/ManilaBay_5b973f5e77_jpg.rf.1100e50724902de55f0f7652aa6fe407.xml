@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ManilaBay_5b973f5e77_jpg.rf.1100e50724902de55f0f7652aa6fe407.jpg</filename>
+	<path>ManilaBay_5b973f5e77_jpg.rf.1100e50724902de55f0f7652aa6fe407.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic_waste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>96</xmin>
+			<xmax>469</xmax>
+			<ymin>74</ymin>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

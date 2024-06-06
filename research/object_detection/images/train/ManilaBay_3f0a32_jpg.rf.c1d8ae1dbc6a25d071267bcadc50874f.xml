@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ManilaBay_3f0a32_jpg.rf.c1d8ae1dbc6a25d071267bcadc50874f.jpg</filename>
+	<path>ManilaBay_3f0a32_jpg.rf.c1d8ae1dbc6a25d071267bcadc50874f.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>styrofoam_waste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>208</xmin>
+			<xmax>626</xmax>
+			<ymin>98</ymin>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>

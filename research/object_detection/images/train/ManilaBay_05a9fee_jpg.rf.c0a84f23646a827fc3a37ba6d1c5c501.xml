@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ManilaBay_05a9fee_jpg.rf.c0a84f23646a827fc3a37ba6d1c5c501.jpg</filename>
+	<path>ManilaBay_05a9fee_jpg.rf.c0a84f23646a827fc3a37ba6d1c5c501.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>metal_waste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>336</xmax>
+			<ymin>345</ymin>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>
